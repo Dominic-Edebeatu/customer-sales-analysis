@@ -1,5 +1,9 @@
 customer-sales-analysis
-customer-sales-analysis
-editing
+
+Project description
+
+Folder structure
+
+How to run scripts
 
 
